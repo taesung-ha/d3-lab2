@@ -8,7 +8,7 @@ Click the **Fork** button in the top-right corner of this GitHub page. This crea
 ### 2. Clone your fork
 Once you've forked it, clone **your fork** (not the original) to your local machine. Copy the URL from your forked repo and run:
 ```bash
-git clone https://github.com/YOUR-USERNAME/d3js-lab2.git
+git clone https://github.com/YOUR-USERNAME/d3-lab2.git
 ```
 Then navigate into the folder:
 ```bash
@@ -76,6 +76,6 @@ Once your activity is complete, deploy your project using **GitHub Pages**:
 
 1. Go to your forked repository on GitHub → **Settings** → **Pages**.
 2. Under **Source**, select the `main` branch and `/ (root)` folder, then click **Save**.
-3. Your site will be live at `https://YOUR-USERNAME.github.io/d3js-workshop-2/`.
+3. Your site will be live at `https://YOUR-USERNAME.github.io/d3-lab2/`.
 
 Submit the link to your deployed GitHub Pages site.
